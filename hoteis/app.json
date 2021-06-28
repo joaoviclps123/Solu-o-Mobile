@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "hoteis",
-    "slug": "snack-e2a328c9-38b1-486f-8651-7c9817d2fef6",
+    "name": "Gulliver Traveller",
+    "slug": "Gulliver-Traveller-Global-Solution",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/splash.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package" : "com.globalsolution.gullivertraveller"
     },
     "web": {
       "favicon": "./assets/favicon.png"
